@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a self-taught developer.\
+I know Node.Js, Java, Rust, React, and am always looking to expand my skillset.\
+Let me know if you have any cool ideas!\
+📫 tage.mehta@gmail.com
